@@ -30,7 +30,7 @@ Para obter uma compreensão mais profunda da opinião das pessoas sobre produtos
 
 ## Fluxo do Projeto
 O projeto inicialmente é esboçado em 5 passos:
-- Criar o dataset;
+- [Criar o dataset](https://github.com/berggama/Sentiment-analysis-for-marketing/blob/main/Criar_o_dataset.ipynb);
 - Criar um analisador de sentimentos baseado em dicionário;
 - Avaliar o desempenho do analisador;
 - Criar uma analisador de sentimento baseado em rede-neural;
