@@ -32,7 +32,7 @@ Para obter uma compreensão mais profunda da opinião das pessoas sobre produtos
 O projeto inicialmente é esboçado em 5 passos:
 - [Criar o dataset](https://github.com/berggama/Sentiment-analysis-for-marketing/blob/main/Criar_o_dataset.ipynb);
 - [Criar um analisador de sentimentos baseado em dicionário](https://github.com/berggama/Sentiment-analysis-for-marketing/blob/main/Criando_um_Analisador_de_Sentimento_baseado_em_dicion%C3%A1rio.ipynb);
-- Avaliar o desempenho do analisador;
+- [Avaliar o desempenho do analisador](https://github.com/berggama/Sentiment-analysis-for-marketing/blob/main/Avaliar_o_desempenho_do_analisador%3B.ipynb);
 - Criar uma analisador de sentimento baseado em rede-neural;
 - Reportar os resultados;
 
